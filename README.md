@@ -1,1 +1,1 @@
-This is Django-Crud (CBV) with API (FBV) 
+This is Django-Crud-CBV "use mixins" with API-FBV 
